@@ -1,8 +1,8 @@
 ![image](https://avatars.githubusercontent.com/u/117309484?s=0)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
 
 <div align="center" border-radius="50%">
-  <a href="https://github.com/gladsonchala">
-    <img src="https://github.com/gladsonchala/gladsonchala/blob/main/image.png" alt="Fullstack Banner" width="80%" height="5%">
+  <a href="https://github.com/venopyX">
+    <img src="https://github.com/venopyX/venopyX/blob/main/image.png" alt="Fullstack Banner" width="80%" height="5%">
   </a>
 </div>
 
@@ -20,39 +20,39 @@
 </div>
 <hr style="border: 1px dashed #D3D3D3">
 
-<p align="center"><a href="https://github.com/gladsonchala/">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gladsonchala&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/></a>  <a href="https://github.com/gladsonchala/">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gladsonchala&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/></a> <a href="https://github.com/gladsonchala">    <img align="center" src="https://github-profile-trophy.vercel.app/?username=gladsonchala&theme=tokyonight" width="820"/>  </a></p>
+<p align="center"><a href="https://github.com/venopyX/">  <img align="center" src="https://github-readme-stats.vercel.app/api?username=venopyX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/></a>  <a href="https://github.com/venopyX/">  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venopyX&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/></a> <a href="https://github.com/venopyX">    <img align="center" src="https://github-profile-trophy.vercel.app/?username=venopyX&theme=tokyonight" width="820"/>  </a></p>
 
 
 <hr style="border: 1px dashed #D3D3D3">
 </div>
 <p align="center">
-<a href="https://github.com/gladsonchala"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gladsonchala&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Gemechis"/></a>
+<a href="https://github.com/venopyX"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=venopyX&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Gemechis"/></a>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venopyX&theme=midnight_purple)
 
 
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gladsonchala&label=Profile%20views&color=0e75b6&style=flat" alt="gladsonchala" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=venopyX&label=Profile%20views&color=0e75b6&style=flat" alt="venopyX" /> </p>
 
 
 
 <div align='center'>
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=gladsonchala)](https://github.com/gladsonchala/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=venopyX)](https://github.com/venopyX/github-contribution-stats/)
 
 </div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/gladsonchala">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gladsonchala&theme=midnight_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gladsonchala&theme=midnight_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gladsonchala&theme=midnight_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gladsonchala&theme=midnight_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gladsonchala&theme=midnight_purple" height="180em" />
+<a href="https://github.com/venopyX">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venopyX&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venopyX&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venopyX&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venopyX&theme=midnight_purple" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venopyX&theme=midnight_purple" height="180em" />
 </div>
 
 
@@ -99,7 +99,7 @@
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/)
 
 <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gladsonchala&theme=midnight_purple"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=venopyX&theme=midnight_purple"/>
 
 
 <hr style="border: 1px dashed #D3D3D3">
@@ -109,9 +109,9 @@
     </samp>
 </h2>
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gemechischala)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gladsonchala)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/pandinuse)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venopyX)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/venopyX)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/venopyX)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:gladsonchala@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-blue?style=flat-square&logo=)](https://scorpidev.me/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0152841f4f2e2f2d84)
