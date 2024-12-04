@@ -1,3 +1,6 @@
+![I Became #1 Top Committer In Ethiopia](https://img.shields.io/badge/I%20Became%20%231%20Top%20Committer%20In%20Ethiopia-red)
+ [![committers.top badge](https://user-badge.committers.top/ethiopia/venopyX.svg)](https://user-badge.committers.top/ethiopia/venopyX)
+
 ![image](https://avatars.githubusercontent.com/u/117309484?s=0)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
 
 <div align="center" border-radius="50%">
