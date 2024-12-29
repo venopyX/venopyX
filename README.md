@@ -3,12 +3,6 @@
 
 ![image](https://avatars.githubusercontent.com/u/117309484?s=0)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=This+is+Gemechis+Chala.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg) 
 
-<div align="center" border-radius="50%">
-  <a href="https://github.com/venopyX">
-    <img src="https://github.com/venopyX/venopyX/blob/main/image.png" alt="Fullstack Banner" width="80%" height="5%">
-  </a>
-</div>
-
 
 <h2>
     <samp>
