@@ -15,13 +15,78 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer specializing in full-stack development with particular expertise in mobile app development, backend engineering, and UI/UX design. With over 5 years of experience, I enjoy solving complex problems and turning ideas into reality.
+I'm competent software developer specializing in full-stack development with particular expertise in mobile app development, backend engineering, and UI/UX design. With over 3 years of experience, I enjoy solving complex problems and turning ideas into reality.
 
 - 🔭 Currently focused on **Web App Development**
 - 🌱 Continuously learning **Flutter, TypeScript, and Go**
 - 🏆 #1 GitHub contributor in Ethiopia
 - 📫 Based in **Addis Ababa, Ethiopia**
 - 💼 Open to freelance projects and collaborations
+
+## 🎓 Education & Learning Journey
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Current Academic Pursuits</h3>
+        <img src="https://img.shields.io/badge/Computer_Science-Microlink_College-8A2BE2?style=for-the-badge&logo=codecademy&logoColor=white" alt="Computer Science"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Software_Engineering-ALX_Africa-8A2BE2?style=for-the-badge&logo=alx&logoColor=white" alt="Software Engineering"/>
+      </td>
+      <td width="50%">
+        <h3>Learning Philosophy</h3>
+        <ul>
+          <li>⚡ Fast learner, quickly adapting to new technologies and frameworks</li>
+          <li>🛠️ Hands-on project based learning approach</li>
+          <li>📚 Continuous learning and daily skill improvement</li>
+          <li>🔄 Building expertise through practical application</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!---
+
+<details>
+  <summary><b>📊 Academic Progress & Skill Development</b></summary>
+  <br>
+  <div align="center">
+    <table>
+      <tr>
+        <td width="50%">
+          <h4>Core Computer Science</h4>
+          <img src="https://progress-bar.dev/90/?title=Problem%20Solving&width=400&color=8A2BE2" alt="Problem Solving Progress" />
+          <br><br>
+          <img src="https://progress-bar.dev/85/?title=Algorithm%20Design&width=400&color=8A2BE2" alt="Algorithm Design Progress" />
+          <br><br>
+          <img src="https://progress-bar.dev/80/?title=System%20Architecture&width=400&color=8A2BE2" alt="System Architecture Progress" />
+        </td>
+        <td width="50%">
+          <h4>Programming Fundamentals</h4>
+          <img src="https://progress-bar.dev/88/?title=Data%20Structures&width=400&color=8A2BE2" alt="Data Structures Progress" />
+          <br><br>
+          <img src="https://progress-bar.dev/85/?title=Software%20Design%20Patterns&width=400&color=8A2BE2" alt="Design Patterns Progress" />
+          <br><br>
+          <img src="https://progress-bar.dev/92/?title=Version%20Control&width=400&color=8A2BE2" alt="Version Control Progress" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</details> 
+
+-->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<div align="center">
+  <i>"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."</i>
+  <br>
+  - Brian Herbert
+</div>
 
 ## 🚀 Skills & Technologies
 
@@ -30,20 +95,20 @@ I'm a passionate software developer specializing in full-stack development with 
 <br>
 <div align="center">
 
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](https://www.json.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](https://www.php.net/)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](https://www.json.org/)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
 
 </div>
 </details>
@@ -61,7 +126,6 @@ I'm a passionate software developer specializing in full-stack development with 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)](https://nodejs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
-[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 </div>
 </details>
@@ -76,6 +140,8 @@ I'm a passionate software developer specializing in full-stack development with 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](https://firebase.google.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-039BE5?logo=Supabase&logoColor=white)](https://supabase.com/)
+[![Appwrite](https://img.shields.io/badge/Appwrite-039BE5?logo=Appwrite&logoColor=white)](https://appwrite.com/)
 
 </div>
 </details>
@@ -87,14 +153,12 @@ I'm a passionate software developer specializing in full-stack development with 
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](https://www.jenkins.io/)
-[![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](https://circleci.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](https://www.heroku.com/)
 [![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)](https://pages.github.com/)
-[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](https://getcomposer.org/)
 [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/)
+[![NPM](https://img.shields.io/badge/NPM-3775A9?logo=npm&logoColor=fff)](https://npmjs.com/)
 
 </div>
 </details>
@@ -106,8 +170,9 @@ I'm a passionate software developer specializing in full-stack development with 
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![NeoVim](https://img.shields.io/badge/NeoVim-000000.svg?logo=neovim&logoColor=#57A143)](https://neovim.io/)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23353535.svg?logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](https://notepad-plus-plus.org/)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](https://codepen.io/)
@@ -123,7 +188,7 @@ I'm a passionate software developer specializing in full-stack development with 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://scorpidev.me/blog)
+[![Daily.Dev](https://img.shields.io/badge/Daily.Dev-%23FF5722.svg?logo=dailydotdev&logoColor=white)](https://scorpidev.me/blog)
 
 </div>
 </details>
@@ -215,7 +280,7 @@ I'm a passionate software developer specializing in full-stack development with 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:venopyx@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-blue?logo=About.me&logoColor=white)](https://scorpidev.me/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0152841f4f2e2f2d84)
-[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://scorpidev.me/blog)
+[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://venopyx.vercel/app)
 
 </div>
 
