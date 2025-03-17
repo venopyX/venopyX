@@ -280,7 +280,7 @@ I'm competent software developer specializing in full-stack development with par
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:venopyx@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-blue?logo=About.me&logoColor=white)](https://scorpidev.me/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0152841f4f2e2f2d84)
-[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://venopyx.vercel/app)
+[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://venopyx.vercel.app)
 
 </div>
 
