@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm competent software developer specializing in full-stack development with particular expertise in mobile app development, backend engineering, and UI/UX design. With over 3 years of experience, I enjoy solving complex problems and turning ideas into reality.
+I'm competent software developer specializing in full-stack development with particular expertise in mobile app development, backend engineering, and frontend design. With over 3 years of experience, I enjoy solving complex problems and turning ideas into reality.
 
 - 🔭 Currently focused on **Web App Development**
 - 🌱 Continuously learning **Flutter, TypeScript, and Go**
@@ -37,10 +37,11 @@ I'm competent software developer specializing in full-stack development with par
       <td width="50%">
         <h3>Learning Philosophy</h3>
         <ul>
-          <li>⚡ Fast learner, quickly adapting to new technologies and frameworks</li>
-          <li>🛠️ Hands-on project based learning approach</li>
-          <li>📚 Continuous learning and daily skill improvement</li>
-          <li>🔄 Building expertise through practical application</li>
+          <li>⚡ Fast learner</li>
+	  <li>🚀 Latest frameworks</li>
+          <li>📚 Continuous learning</li>
+          <li>💻 Practical application</li>
+          <li>🛠️ Hands-on project style</li>
         </ul>
       </td>
     </tr>
@@ -188,7 +189,7 @@ I'm competent software developer specializing in full-stack development with par
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![Daily.Dev](https://img.shields.io/badge/Daily.Dev-%23FF5722.svg?logo=dailydotdev&logoColor=white)](https://scorpidev.me/blog)
+[![Daily.Dev](https://img.shields.io/badge/Daily.Dev-%23FF5722.svg?logo=dailydotdev&logoColor=white)](https://venopyx.vercel.app)
 
 </div>
 </details>
@@ -278,7 +279,7 @@ I'm competent software developer specializing in full-stack development with par
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/venopyX)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/venopyX)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:venopyx@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-blue?logo=About.me&logoColor=white)](https://scorpidev.me/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-blue?logo=About.me&logoColor=white)](https://venopyx.vercel.app/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0152841f4f2e2f2d84)
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://venopyx.vercel.app)
 
