@@ -291,31 +291,36 @@ console.log(gemechis);
 </div>
 </details>
 
-## 📊 GitHub Statistics
+## 🚀 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venopyX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venopyX&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venopyX&langs_count=8&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="450" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venopyX&theme=tokyonight&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venopyX&theme=high-contrast&bg_color=000000&color=8A2BE2&line=6600FF&point=FFFFFF" width="100%" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venopyX&theme=midnight_purple" width="100%" alt="Profile Details" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venopyX&theme=midnight_purple" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venopyX&theme=midnight_purple" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venopyX&theme=midnight_purple" height="180em" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venopyX&theme=midnight_purple" height="180em" />
+  <!-- Core metrics with refined grid layout -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=venopyX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="49%" alt="Contribution Metrics" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=venopyX&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="49%" alt="Contribution Streak" />
+  </div>
+  
+  <!-- Language and productivity metrics with balanced layout -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venopyX&langs_count=6&layout=compact&title_color=a388fe&text_color=dbd9ef&bg_color=0d1117,151550,0d1117&hide_border=true&border_radius=8&card_width=445" width="58%" alt="Technology Stack" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venopyX&theme=moonlight&utcOffset=3" width="40%" alt="Development Hours" />
+  </div>
+  
+  <!-- Achievement showcase with cleaner presentation -->
+  <img src="https://github-profile-trophy.vercel.app/?username=venopyX&theme=discord&column=7&row=1&margin-w=15&no-bg=true&no-frame=true" width="100%" alt="Achievement Collection" />
+  
+  <!-- Activity visualization with full-width display -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venopyX&theme=high-contrast&bg_color=000000&color=8A2BE2&line=6600FF&point=FFFFFF" width="100%" alt="Contribution Timeline" />
+  
+  <!-- Detailed profile summary with consistent layout -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venopyX&theme=midnight_purple" width="100%" alt="Development Overview" />
+  
+  <!-- Language and repository analytics in balanced grid -->
+  <div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venopyX&theme=midnight_purple" width="32%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venopyX&theme=midnight_purple" width="32%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venopyX&theme=midnight_purple" width="32%" />
+  </div>
 </div>
 
 <!---
