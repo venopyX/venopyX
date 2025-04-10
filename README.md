@@ -7,14 +7,22 @@
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Gemechis%20Chala&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Header" />
   </picture>
 </div>
-  
+
+<div>
+    <img src="https://skillicons.dev/icons?i=vuejs,python,flutter,nuxtjs,tailwindcss,go,ts" alt="Skills" />
+</div>
+
  <!-- ![Gemechis Chala | venopyX](https://img.shields.io/badge/Gemechis_Chala-venopyX-8A2BE2?style=for-the-badge&labelColor=000000) 
 
   ![I Became #1 Top Committer In Ethiopia](https://img.shields.io/badge/🏆_%231_Top_Committer_In_Ethiopia-red?style=for-the-badge&labelColor=000000) 
- -->
   
   [![committers.top badge](https://user-badge.committers.top/ethiopia/venopyX.svg)](https://user-badge.committers.top/ethiopia/venopyX)
   
+ -->
+
+[![Location](https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-0D9488?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/gemechis)
+[![GitHub](https://img.shields.io/badge/%231_Contributor-Ethiopia-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/gemechis)
+[![Experience](https://img.shields.io/badge/Experience-3_Years-22C55E?style=flat-square&logo=counter-strike&logoColor=white)](https://github.com/gemechis)
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Backend+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </div>
@@ -104,26 +112,37 @@ console.log(gemechis);
 ## 🎓 Education & Learning Journey
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>Current Academic Pursuits</h3>
-        <img src="https://img.shields.io/badge/Computer_Science-Microlink_College-8A2BE2?style=for-the-badge&logo=codecademy&logoColor=white" alt="Computer Science"/>
-        <br><br>
-        <img src="https://img.shields.io/badge/Software_Engineering-ALX_Africa-8A2BE2?style=for-the-badge&logo=alx&logoColor=white" alt="Software Engineering"/>
-      </td>
-      <td width="50%">
-        <h3>Learning Philosophy</h3>
-        <ul>
-          <li>⚡ Fast learner</li>
-	  <li>🚀 Latest frameworks</li>
-          <li>📚 Continuous learning</li>
-          <li>💻 Practical application</li>
-          <li>🛠️ Hands-on project style</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 Education Journey</h3>
+      <div align="center">
+	<img src="https://img.shields.io/badge/Computer_Science-Microlink_College-8A2BE2?style=for-the-badge&logo=codecademy&logoColor=white" alt="Computer Science"/>
+	<br><br>
+	<img src="https://img.shields.io/badge/Software_Engineering-ALX_Africa-8A2BE2?style=for-the-badge&logo=alx&logoColor=white" alt="Software Engineering"/>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💭 Development Style</h3>
+      <div align="center">
+	<table>
+	  <tr>
+	    <td><img width="30px" src="https://cdn-icons-png.flaticon.com/512/763/763812.png"/></td>
+	    <td>Fast, and Continuous learning</td>
+	  </tr>
+	  <tr>
+	    <td><img width="30px" src="https://cdn-icons-png.flaticon.com/512/16949/16949247.png"/></td>
+	    <td>Latest frameworks</td>
+	  </tr>
+	  <tr>
+	    <td><img width="30px" src="https://cdn-icons-png.flaticon.com/512/14114/14114539.png"/></td>
+	    <td>Practical, hands-on projects</td>
+	  </tr>
+	</table>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 <!---
