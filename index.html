@@ -1,0 +1,451 @@
+<html><head>
+                <link rel="preconnect" href="https://fonts.googleapis.com">
+                <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+                <link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
+                <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&amp;display=swap" rel="stylesheet">                   
+                <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet">
+                <style>
+/* Modern Markdown Styling */
+:root {
+  --bg-color: #f8f9fa;
+  --text-color: #2d3748;
+  --heading-color: #1a365d;
+  --code-bg: #2d3e50;
+  --code-color: #e2e8f0;
+  --inline-code-bg: #edf2f7;
+  --inline-code-color: #d53f8c;
+  --blockquote-color: #4a5568;
+  --blockquote-border: #3182ce;
+  --border-color: #e2e8f0;
+  --link-color: #3182ce;
+  --link-hover: #2c5282;
+  --table-header-bg: #ebf8ff;
+  --font-sans: 'Barlow', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'Fira Code', Consolas, Monaco, 'Courier New', monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  line-height: 1.8;
+  color: var(--text-color);
+  background-color: var(--bg-color);
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-size: 16px;
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--heading-color);
+}
+
+h1 {
+  font-size: 2.25rem;
+  letter-spacing: -0.025em;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.75rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2.5rem;
+  letter-spacing: -0.015em;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+p {
+  margin: 1.5rem 0;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+  border-bottom: 1px solid var(--link-hover);
+}
+
+/* Code Blocks */
+pre {
+  background: var(--code-bg);
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  overflow: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+code {
+  font-family: var(--font-mono);
+  color: var(--code-color);
+  font-size: 0.9rem;
+}
+
+:not(pre) > code {
+  background: var(--inline-code-bg);
+  color: var(--inline-code-color);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.875em;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+th, td {
+  border: 1px solid var(--border-color);
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+
+th {
+  background-color: var(--table-header-bg);
+  font-weight: 600;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid var(--blockquote-border);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  background-color: rgba(49, 130, 206, 0.05);
+  border-radius: 0 8px 8px 0;
+  color: var(--blockquote-color);
+  font-style: italic;
+}
+
+blockquote p {
+  margin: 0.5rem 0;
+}
+
+/* Lists */
+ul, ol {
+  margin: 1.5rem 0;
+  padding-left: 2rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Images */
+img {
+  border-radius: 0.3rem;
+  display: block;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Horizontal Rule */
+hr {
+  border: 0;
+  height: 2px;
+  background: var(--border-color);
+  margin: 2.5rem 0;
+}
+
+/* Selection */
+::selection {
+  background-color: rgba(49, 130, 206, 0.2);
+}
+
+/* Dark Mode Option - Uncomment to use */
+/*
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #1a202c;
+    --text-color: #e2e8f0;
+    --heading-color: #90cdf4;
+    --code-bg: #2d3748;
+    --code-color: #e2e8f0;
+    --inline-code-bg: #2d3748;
+    --inline-code-color: #f687b3;
+    --blockquote-color: #cbd5e0;
+    --blockquote-border: #4299e1;
+    --border-color: #4a5568;
+    --table-header-bg: #2d3748;
+    --link-color: #63b3ed;
+    --link-hover: #90cdf4;
+  }
+  
+  img {
+    opacity: 0.8;
+  }
+}
+*/
+
+p {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}    
+                </style>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-python.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-javascript.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-bash.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js"></script>
+                <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-go.min.js"></script>
+            </head>
+            <body>
+                <div align="center">
+  
+<p>  <img src="https://img.shields.io/badge/Gemechis_Chala-venopyX-8A2BE2?style=for-the-badge&amp;labelColor=000000" alt="Gemechis Chala | venopyX"></p>
+<p>  <a href="https://user-badge.committers.top/ethiopia/venopyX"><img src="https://user-badge.committers.top/ethiopia/venopyX.svg" alt="committers.top badge"></a></p>
+<p>  <img src="https://img.shields.io/badge/%F0%9F%8F%86_%231_Top_Committer_In_Ethiopia-red?style=for-the-badge&amp;labelColor=000000" alt="I Became #1 Top Committer In Ethiopia"></p>
+<p>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=8A2BE2&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=435&amp;lines=Full+Stack+Developer;Mobile+App+Developer;Backend+Engineer;UI%2FUX+Designer" alt="Typing SVG"></a></p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=venopyX&amp;style=for-the-badge&amp;color=8A2BE2&amp;label=PROFILE+VIEWS" alt="Profile Views">
+</div>
+
+<h2>👨&zwj;💻 About Me</h2>
+<p>I'm competent software developer specializing in full-stack development with particular expertise in mobile app development, backend engineering, and frontend design. With over 3 years of experience, I enjoy solving complex problems and turning ideas into reality.</p>
+<ul>
+<li>🔭 Currently focused on <strong>Web App Development</strong></li>
+<li>🌱 Continuously learning <strong>Flutter, TypeScript, and Go</strong></li>
+<li>🏆 #1 GitHub contributor in Ethiopia</li>
+<li>📫 Based in <strong>Addis Ababa, Ethiopia</strong></li>
+<li>💼 Open to freelance projects and collaborations</li>
+</ul>
+<h2>🎓 Education &amp; Learning Journey</h2>
+<div align="center">
+  <table>
+    <tbody><tr>
+      <td width="50%" align="center">
+        <h3>Current Academic Pursuits</h3>
+        <img src="https://img.shields.io/badge/Computer_Science-Microlink_College-8A2BE2?style=for-the-badge&amp;logo=codecademy&amp;logoColor=white" alt="Computer Science">
+        <br><br>
+        <img src="https://img.shields.io/badge/Software_Engineering-ALX_Africa-8A2BE2?style=for-the-badge&amp;logo=alx&amp;logoColor=white" alt="Software Engineering">
+      </td>
+      <td width="50%">
+        <h3>Learning Philosophy</h3>
+        <ul>
+          <li>⚡ Fast learner</li>
+	  <li>🚀 Latest frameworks</li>
+          <li>📚 Continuous learning</li>
+          <li>💻 Practical application</li>
+          <li>🛠️ Hands-on project style</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+
+<!---
+
+<details>
+  <summary><b>📊 Academic Progress & Skill Development</b></summary>
+  <br>
+  <div align="center">
+    <table>
+      <tr>
+        <td width="50%">
+          <h4>Core Computer Science</h4>
+          <img src="https://progress-bar.dev/90/?title=Problem%20Solving&width=400&color=8A2BE2" alt="Problem Solving Progress" />
+          <br><br>
+          <img src="https://progress-bar.dev/85/?title=Algorithm%20Design&width=400&color=8A2BE2" alt="Algorithm Design Progress" />
+          <br><br>
+          <img src="https://progress-bar.dev/80/?title=System%20Architecture&width=400&color=8A2BE2" alt="System Architecture Progress" />
+        </td>
+        <td width="50%">
+          <h4>Programming Fundamentals</h4>
+          <img src="https://progress-bar.dev/88/?title=Data%20Structures&width=400&color=8A2BE2" alt="Data Structures Progress" />
+          <br><br>
+          <img src="https://progress-bar.dev/85/?title=Software%20Design%20Patterns&width=400&color=8A2BE2" alt="Design Patterns Progress" />
+          <br><br>
+          <img src="https://progress-bar.dev/92/?title=Version%20Control&width=400&color=8A2BE2" alt="Version Control Progress" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</details> 
+
+-->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<div align="center">
+  <i>"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."</i>
+  <br>
+  - Brian Herbert
+</div>
+
+<h2>🚀 Skills &amp; Technologies</h2>
+<details open="">
+<summary><b>Programming Languages</b></summary>
+<br>
+<div align="center">
+
+<p><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&amp;logoColor=fff" alt="Python"></a><br><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&amp;logoColor=fff" alt="TypeScript"></a><br><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&amp;logoColor=000" alt="JavaScript"></a><br><a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&amp;logoColor=white" alt="Dart"></a><br><a href="https://golang.org/"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&amp;logoColor=white" alt="Go"></a><br><a href="https://www.json.org/"><img src="https://img.shields.io/badge/JSON-000?logo=json&amp;logoColor=fff" alt="JSON"></a><br><a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&amp;logoColor=white" alt="Markdown"></a><br><a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnubash&amp;logoColor=fff" alt="Shell"></a><br><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&amp;logoColor=white" alt="HTML"></a><br><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&amp;logoColor=fff" alt="CSS"></a><br><a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&amp;logo=php&amp;logoColor=white" alt="PHP"></a><br><a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&amp;logoColor=white" alt="C++"></a><br><a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&amp;logoColor=white" alt="C#"></a><br><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&amp;logoColor=white" alt="Java"></a></p>
+</div>
+</details>
+
+<details open="">
+<summary><b>Frameworks &amp; Libraries</b></summary>
+<br>
+<div align="center">
+
+<p><a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&amp;logoColor=fff" alt="Vue.js"></a><br><a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=black" alt="React"></a><br><a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&amp;logoColor=white" alt="Flutter"></a><br><a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&amp;logoColor=fff" alt="Bootstrap"></a><br><a href="https://jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&amp;logoColor=fff" alt="jQuery"></a><br><a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&amp;logoColor=fff" alt="Node.js"></a><br><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&amp;logoColor=fff" alt="FastAPI"></a><br><a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000?logo=flask&amp;logoColor=fff" alt="Flask"></a></p>
+</div>
+</details>
+
+<details open="">
+<summary><b>Databases &amp; Storage</b></summary>
+<br>
+<div align="center">
+
+<p><a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=white" alt="MongoDB"></a><br><a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&amp;logoColor=white" alt="PostgreSQL"></a><br><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&amp;logoColor=fff" alt="MySQL"></a><br><a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&amp;logoColor=white" alt="SQLite"></a><br><a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&amp;logoColor=white" alt="Firebase"></a><br><a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-039BE5?logo=Supabase&amp;logoColor=white" alt="Supabase"></a><br><a href="https://appwrite.com/"><img src="https://img.shields.io/badge/Appwrite-039BE5?logo=Appwrite&amp;logoColor=white" alt="Appwrite"></a></p>
+</div>
+</details>
+
+<details open="">
+<summary><b>DevOps &amp; Deployment</b></summary>
+<br>
+<div align="center">
+
+<p><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&amp;logoColor=fff" alt="Git"></a><br><a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&amp;logoColor=fff" alt="Docker"></a><br><a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&amp;logoColor=white" alt="Vercel"></a><br><a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&amp;logoColor=#00C7B7" alt="Netlify"></a><br><a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&amp;logoColor=fffe" alt="Heroku"></a><br><a href="https://pages.github.com/"><img src="https://img.shields.io/badge/Github%20Pages-121013?logo=github&amp;logoColor=white" alt="Github Pages"></a><br><a href="https://pypi.org/"><img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&amp;logoColor=fff" alt="PyPI"></a><br><a href="https://npmjs.com/"><img src="https://img.shields.io/badge/NPM-3775A9?logo=npm&amp;logoColor=fff" alt="NPM"></a></p>
+</div>
+</details>
+
+<details open="">
+<summary><b>Design &amp; Development Tools</b></summary>
+<br>
+<div align="center">
+
+<p><a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&amp;logoColor=white" alt="Figma"></a><br><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"></a><br><a href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-000000.svg?logo=neovim&amp;logoColor=#57A143" alt="NeoVim"></a><br><a href="https://www.sublimetext.com/"><img src="https://img.shields.io/badge/Sublime%20Text-%23353535.svg?logo=sublime-text&amp;logoColor=important" alt="Sublime Text"></a><br><a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&amp;logo=visual-studio&amp;logoColor=white" alt="Visual Studio"></a><br><a href="https://notepad-plus-plus.org/"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?&amp;logo=notepad%2b%2b&amp;logoColor=black" alt="Notepad++"></a><br><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&amp;logoColor=fff" alt="Python IDLE"></a><br><a href="https://codepen.io/"><img src="https://img.shields.io/badge/CodePen-white?&amp;logo=codepen&amp;logoColor=black" alt="CodePen"></a></p>
+</div>
+</details>
+
+<details open="">
+<summary><b>Content &amp; Knowledge Platforms</b></summary>
+<br>
+<div align="center">
+
+<p><a href="https://medium.com/"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&amp;logoColor=white" alt="Medium"></a><br><a href="https://dev.to/"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&amp;logoColor=white" alt="Dev.to"></a><br><a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&amp;logoColor=white" alt="GeeksForGeeks"></a><br><a href="https://venopyx.vercel.app"><img src="https://img.shields.io/badge/Daily.Dev-%23FF5722.svg?logo=dailydotdev&amp;logoColor=white" alt="Daily.Dev"></a></p>
+</div>
+</details>
+
+<h2>📊 GitHub Statistics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venopyX&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=8A2BE2&amp;icon_color=2234AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130C40" width="450" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venopyX&amp;theme=midnight_purple&amp;include_all_commits=true&amp;count_private=true&amp;show_icons=true&amp;line_height=20&amp;title_color=8A2BE2&amp;icon_color=2200AE&amp;text_color=D3D3D3&amp;bg_color=0,000000,130C40" width="450" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venopyX&amp;langs_count=8&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight" width="450" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venopyX&amp;theme=tokyonight&amp;row=1&amp;column=6" width="100%" alt="GitHub Trophies">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venopyX&amp;theme=high-contrast&amp;bg_color=000000&amp;color=8A2BE2&amp;line=6600FF&amp;point=FFFFFF" width="100%" alt="Activity Graph">
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venopyX&amp;theme=midnight_purple" width="100%" alt="Profile Details">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venopyX&amp;theme=midnight_purple" height="180em">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venopyX&amp;theme=midnight_purple" height="180em">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venopyX&amp;theme=midnight_purple" height="180em">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venopyX&amp;theme=midnight_purple" height="180em">
+</div>
+
+<!---
+
+## 💻 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>E-Commerce Platform</h3>
+      <p>A full-stack e-commerce solution with payment processing and inventory management.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Chat Assistant</h3>
+      <p>Natural language processing chatbot with personalized responses and training capabilities.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Fitness Tracker App</h3>
+      <p>Cross-platform mobile application for workout tracking with progress visualization.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase" />
+        <img src="https://img.shields.io/badge/HealthKit-000000?style=flat-square&logo=apple&logoColor=white" alt="HealthKit" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Blockchain Voting System</h3>
+      <p>Secure and transparent voting platform built on Ethereum with voter verification.</p>
+      <div>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=ethereum&logoColor=white" alt="Solidity" />
+        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+-->
+
+<h2>🌐 Connect With Me</h2>
+<div align="center">
+
+<p><a href="https://linkedin.com/in/venopyX"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a><br><a href="https://twitter.com/venopyX"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a><br><a href="https://t.me/venopyX"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&amp;logoColor=white" alt="Telegram"></a><br><a href="mailto:venopyx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&amp;logoColor=white" alt="Gmail"></a><br><a href="https://venopyx.vercel.app/"><img src="https://img.shields.io/badge/My_Portfolio-blue?logo=About.me&amp;logoColor=white" alt="Portfolio"></a><br><a href="https://www.upwork.com/freelancers/~0152841f4f2e2f2d84"><img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&amp;logoColor=fff" alt="Upwork"></a><br><a href="https://venopyx.vercel.app"><img src="https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&amp;logoColor=white" alt="Blogger"></a></p>
+</div>
+
+<div align="center">
+	
+<hr>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=8A2BE2&amp;height=100&amp;section=footer" width="100%">
+
+</div>
+            
+        </body></html>
