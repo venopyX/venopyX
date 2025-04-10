@@ -1,10 +1,20 @@
 <div align="center">
+<!-- Hero Section -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Gemechis%20Chala&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Gemechis%20Chala&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Gemechis%20Chala&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  </picture>
+</div>
   
-  ![Gemechis Chala | venopyX](https://img.shields.io/badge/Gemechis_Chala-venopyX-8A2BE2?style=for-the-badge&labelColor=000000)
+ <!-- ![Gemechis Chala | venopyX](https://img.shields.io/badge/Gemechis_Chala-venopyX-8A2BE2?style=for-the-badge&labelColor=000000) 
+
+  ![I Became #1 Top Committer In Ethiopia](https://img.shields.io/badge/🏆_%231_Top_Committer_In_Ethiopia-red?style=for-the-badge&labelColor=000000) 
+ -->
   
   [![committers.top badge](https://user-badge.committers.top/ethiopia/venopyX.svg)](https://user-badge.committers.top/ethiopia/venopyX)
   
-  ![I Became #1 Top Committer In Ethiopia](https://img.shields.io/badge/🏆_%231_Top_Committer_In_Ethiopia-red?style=for-the-badge&labelColor=000000)
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Backend+Engineer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </div>
@@ -17,11 +27,79 @@
 
 I'm competent software developer specializing in full-stack development with particular expertise in mobile app development, backend engineering, and frontend design. With over 3 years of experience, I enjoy solving complex problems and turning ideas into reality.
 
-- 🔭 Currently focused on **Web App Development**
-- 🌱 Continuously learning **Flutter, TypeScript, and Go**
-- 🏆 #1 GitHub contributor in Ethiopia
-- 📫 Based in **Addis Ababa, Ethiopia**
-- 💼 Open to freelance projects and collaborations
+```typescript
+class SoftwareEngineer {
+  constructor() {
+    this.name = "Gemechis Chala";
+    this.location = "Addis Ababa, Ethiopia";
+    this.experience = 3;
+    this.skills = ["Full Stack", "Mobile", "UI/UX"];
+    this.achievement = "#1 GitHub contributor in Ethiopia";
+  }
+
+  currentFocus() {
+    return "Web App Development";
+  }
+
+  learning() {
+    return ["Flutter", "TypeScript", "Go"];
+  }
+
+  openTo() {
+    return ["Freelance projects", "Collaborations"];
+  }
+}
+
+const gemechis = new SoftwareEngineer();
+console.log(gemechis);
+```
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td colspan="2">
+        <div align="center">
+          <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=const+developer+%3D+%7B+name%3A+'Gemechis+Chala'+%7D;iimport+%7B+passion%2C+creativity%2C+innovation+%7D+from+'mindset';function+solveProblems(complexity)+%7B+return+solutions+%7D;while(true)+%7B+continuously.learn(new_technologies)+%7D" alt="Developer Code" />
+	</div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+	
+<!-- Bio Matrix Animation References -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="620" />
+
+<!-- Digital Skill Matrix -->
+<div align="center">
+  <h3>SKILL MATRIX</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Problem_Solving-Advanced-8A2BE2?style=flat-square&logo=thealgorithms&logoColor=white" alt="Problem Solving" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/System_Design-Proficient-4169E1?style=flat-square&logo=diagramsdotnet&logoColor=white" alt="System Design" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/UI/UX-Advanced-FF4F8B?style=flat-square&logo=figma&logoColor=white" alt="UI/UX" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/API_Development-Expert-4CAF50?style=flat-square&logo=fastapi&logoColor=white" alt="API Development" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Database_Design-Proficient-FF9800?style=flat-square&logo=postgresql&logoColor=white" alt="Database Design" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Mobile_Development-Advanced-00BCD4?style=flat-square&logo=flutter&logoColor=white" alt="Mobile Development" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🎓 Education & Learning Journey
 
