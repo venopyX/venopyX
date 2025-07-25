@@ -13,18 +13,10 @@
       <img src="https://skillicons.dev/icons?i=vuejs,python,flutter,nuxtjs,tailwindcss,go,ts" alt="Skills" />
    </div>
 
-
 <div align="center">
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%">
 </div>
 </br>
-
-   <!-- ![Gemechis Chala | venopyX](https://img.shields.io/badge/Gemechis_Chala-venopyX-8A2BE2?style=for-the-badge&labelColor=000000) 
-      ![I Became #1 Top Committer In Ethiopia](https://img.shields.io/badge/🏆_%231_Top_Committer_In_Ethiopia-red?style=for-the-badge&labelColor=000000) 
-      
-      [![committers.top badge](https://user-badge.committers.top/ethiopia/venopyX.svg)](https://user-badge.committers.top/ethiopia/venopyX)
-      
-      -->
 
    [![Location](https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-0D9488?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/gemechis)
    [![GitHub](https://img.shields.io/badge/%231_Contributor-Ethiopia-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/gemechis)
@@ -39,50 +31,19 @@
 </div>
 
 ## 👨‍💻 About Me
-I'm competent software developer specializing in full-stack development with particular expertise in mobile app development, backend engineering, and frontend design. With over 3 years of experience, I enjoy solving complex problems and turning ideas into reality.
+I'm a FullStack developer focused on Vue.js, TailwindCSS, Python, and TypeScript. Frontend development is my specialty with Vue.js being my primary framework. I build responsive web applications and Python-powered backends that actually work in production.
 
-```typescript
-class SoftwareEngineer {
-constructor() {
-this.name = "Gemechis Chala";
-this.location = "Addis Ababa, Ethiopia";
-this.experience = 3;
-this.skills = ["Full Stack", "Mobile", "UI/UX"];
-this.achievement = "#1 GitHub contributor in Ethiopia";
-}
-currentFocus() {
-return "Web App Development";
-}
-learning() {
-return ["Flutter", "TypeScript", "Go"];
-}
-openTo() {
-return ["Freelance projects", "Collaborations"];
-}
-}
-const gemechis = new SoftwareEngineer();
-console.log(gemechis);
-```
+Started coding three years ago and haven't stopped since. My days are split between building user interfaces, designing APIs, and figuring out why things break in production.
 
-<div align="center">
-   <table border="0" cellspacing="0" cellpadding="0">
-      <tr>
-         <td colspan="2">
-            <div align="center">
-               <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=const+developer+%3D+%7B+name%3A+'Gemechis+Chala'+%7D;iimport+%7B+passion%2C+creativity%2C+innovation+%7D+from+'mindset';function+solveProblems(complexity)+%7B+return+solutions+%7D;while(true)+%7B+continuously.learn(new_technologies)+%7D" alt="Developer Code" />
-            </div>
-         </td>
-      </tr>
-   </table>
-</div>
+Based in Addis Ababa, contributing to open source, and learning something new every day.
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1" width="70%" />
 </div>
 
-<!-- Digital Skill Matrix -->
+<!-- Technical SKILLS -->
 <div align="center">
-   <h3>SKILL MATRIX</h3>
+   <h3>TECHNICAL SKILLS</h3>
    <table>
       <tr>
          <td align="center">
@@ -103,12 +64,11 @@ console.log(gemechis);
             <img src="https://img.shields.io/badge/Database_Design-Proficient-FF9800?style=flat-square&logo=postgresql&logoColor=white" alt="Database Design" />
          </td>
          <td align="center">
-            <img src="https://img.shields.io/badge/Mobile_Development-Advanced-00BCD4?style=flat-square&logo=flutter&logoColor=white" alt="Mobile Development" />
+            <img src="https://img.shields.io/badge/Frontend_Development-Advanced-00BCD4?style=flat-square&logo=vue.js&logoColor=white" alt="Frontend Development" />
          </td>
       </tr>
    </table>
 </div>
-
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%">
@@ -119,28 +79,28 @@ console.log(gemechis);
    <table>
       <tr>
          <td width="50%">
-            <h3 align="center">🎓 Education Journey</h3>
+            <h3 align="center">🎓 Education</h3>
             <div align="center">
-               <img src="https://img.shields.io/badge/Computer_Science-Microlink_College-8A2BE2?style=for-the-badge&logo=codecademy&logoColor=white" alt="Computer Science"/>
-               <br><br>
                <img src="https://img.shields.io/badge/Software_Engineering-ALX_Africa-8A2BE2?style=for-the-badge&logo=alx&logoColor=white" alt="Software Engineering"/>
+               <br><br>
+               <img src="https://img.shields.io/badge/Computer_Science-Microlink_College-8A2BE2?style=for-the-badge&logo=codecademy&logoColor=white" alt="Computer Science"/>
             </div>
          </td>
          <td width="50%">
-            <h3 align="center">💭 Development Style</h3>
+            <h3 align="center">💭 How I Work</h3>
             <div align="center">
                <table>
                   <tr>
                      <td><img width="30px" src="https://cdn-icons-png.flaticon.com/512/763/763812.png"/></td>
-                     <td>Fast, and Continuous learning</td>
+                     <td>Learn by building, not by reading</td>
                   </tr>
                   <tr>
                      <td><img width="30px" src="https://cdn-icons-png.flaticon.com/512/16949/16949247.png"/></td>
-                     <td>Latest frameworks</td>
+                     <td>Use what works, not what's trendy</td>
                   </tr>
                   <tr>
                      <td><img width="30px" src="https://cdn-icons-png.flaticon.com/512/14114/14114539.png"/></td>
-                     <td>Practical, hands-on projects</td>
+                     <td>Ship first, perfect later</td>
                   </tr>
                </table>
             </div>
@@ -149,53 +109,21 @@ console.log(gemechis);
    </table>
 </div>
 
-<!---
-   <details>
-     <summary><b>📊 Academic Progress & Skill Development</b></summary>
-     <br>
-     <div align="center">
-       <table>
-         <tr>
-           <td width="50%">
-             <h4>Core Computer Science</h4>
-             <img src="https://progress-bar.dev/90/?title=Problem%20Solving&width=400&color=8A2BE2" alt="Problem Solving Progress" />
-             <br><br>
-             <img src="https://progress-bar.dev/85/?title=Algorithm%20Design&width=400&color=8A2BE2" alt="Algorithm Design Progress" />
-             <br><br>
-             <img src="https://progress-bar.dev/80/?title=System%20Architecture&width=400&color=8A2BE2" alt="System Architecture Progress" />
-           </td>
-           <td width="50%">
-             <h4>Programming Fundamentals</h4>
-             <img src="https://progress-bar.dev/88/?title=Data%20Structures&width=400&color=8A2BE2" alt="Data Structures Progress" />
-             <br><br>
-             <img src="https://progress-bar.dev/85/?title=Software%20Design%20Patterns&width=400&color=8A2BE2" alt="Design Patterns Progress" />
-             <br><br>
-             <img src="https://progress-bar.dev/92/?title=Version%20Control&width=400&color=8A2BE2" alt="Version Control Progress" />
-           </td>
-         </tr>
-       </table>
-     </div>
-   </details> 
-   
-   -->
-
 <div align="center">
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <div align="center">
-   <i>"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."</i>
+   <i>"Code is like humor. When you have to explain it, it's bad."</i>
    <br>
-   - Brian Herbert
+   - Cory House
 </div>
-
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-
-## 🚀 Skills & Technologies
+## 🚀 Technologies & Tools
 <details open>
    <summary><b>Programming Languages</b></summary>
    <br>
@@ -218,7 +146,7 @@ console.log(gemechis);
 
    </div>
 </details>
-<details open>
+<details>
    <summary><b>Frameworks & Libraries</b></summary>
    <br>
    <div align="center">
@@ -234,7 +162,7 @@ console.log(gemechis);
 
    </div>
 </details>
-<details open>
+<details>
    <summary><b>Databases & Storage</b></summary>
    <br>
    <div align="center">
@@ -249,7 +177,7 @@ console.log(gemechis);
 
    </div>
 </details>
-<details open>
+<details>
    <summary><b>DevOps & Deployment</b></summary>
    <br>
    <div align="center">
@@ -265,7 +193,7 @@ console.log(gemechis);
 
    </div>
 </details>
-<details open>
+<details>
    <summary><b>Design & Development Tools</b></summary>
    <br>
    <div align="center">
@@ -281,7 +209,7 @@ console.log(gemechis);
 
    </div>
 </details>
-<details open>
+<details>
    <summary><b>Content & Knowledge Platforms</b></summary>
    <br>
    <div align="center">
@@ -295,79 +223,30 @@ console.log(gemechis);
 </details>
 
 ## 🚀 GitHub Insights
+
 <div align="center">
-   <!-- Core metrics with refined grid layout -->
    <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=venopyX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="49%" alt="Contribution Metrics" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=venopyX&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="49%" alt="Contribution Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=venopyX&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="49%" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=venopyX&theme=midnight_purple&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8A2BE2&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="49%" alt="Streak Stats" />
    </div>
-   <!-- Language and productivity metrics with balanced layout -->
+   
    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venopyX&langs_count=6&layout=compact&title_color=a388fe&text_color=dbd9ef&bg_color=0d1117,151550,0d1117&hide_border=true&border_radius=8&card_width=445" width="58%" alt="Technology Stack" />
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venopyX&theme=moonlight&utcOffset=3" width="40%" alt="Development Hours" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venopyX&langs_count=6&layout=compact&title_color=a388fe&text_color=dbd9ef&bg_color=0d1117,151550,0d1117&hide_border=true&border_radius=8&card_width=445" width="58%" alt="Top Languages" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=venopyX&theme=moonlight&utcOffset=3" width="40%" alt="Coding Hours" />
    </div>
-   <!-- Achievement showcase with cleaner presentation -->
-   <img src="https://github-profile-trophy.vercel.app/?username=venopyX&theme=discord&column=7&row=1&margin-w=15&no-bg=true&no-frame=true" width="100%" alt="Achievement Collection" />
-   <!-- Activity visualization with full-width display -->
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venopyX&theme=high-contrast&bg_color=000000&color=8A2BE2&line=6600FF&point=FFFFFF" width="100%" alt="Contribution Timeline" />
-   <!-- Detailed profile summary with consistent layout -->
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venopyX&theme=midnight_purple" width="100%" alt="Development Overview" />
-   <!-- Language and repository analytics in balanced grid -->
+   
+   <img src="https://github-profile-trophy.vercel.app/?username=venopyX&theme=discord&column=7&row=1&margin-w=15&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
+   
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=venopyX&theme=high-contrast&bg_color=000000&color=8A2BE2&line=6600FF&point=FFFFFF" width="100%" alt="Activity Graph" />
+   
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=venopyX&theme=midnight_purple" width="100%" alt="Profile Details" />
+   
    <div>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=venopyX&theme=midnight_purple" width="32%" />
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=venopyX&theme=midnight_purple" width="32%" />
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=venopyX&theme=midnight_purple" width="32%" />
    </div>
 </div>
-
-<!---
-   ## 💻 Featured Projects
-   
-   <div align="center">
-   <table>
-     <tr>
-       <td width="50%" valign="top">
-         <h3>E-Commerce Platform</h3>
-         <p>A full-stack e-commerce solution with payment processing and inventory management.</p>
-         <div>
-           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-         </div>
-       </td>
-       <td width="50%" valign="top">
-         <h3>AI Chat Assistant</h3>
-         <p>Natural language processing chatbot with personalized responses and training capabilities.</p>
-         <div>
-           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-         </div>
-       </td>
-     </tr>
-     <tr>
-       <td width="50%" valign="top">
-         <h3>Fitness Tracker App</h3>
-         <p>Cross-platform mobile application for workout tracking with progress visualization.</p>
-         <div>
-           <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-           <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase" />
-           <img src="https://img.shields.io/badge/HealthKit-000000?style=flat-square&logo=apple&logoColor=white" alt="HealthKit" />
-         </div>
-       </td>
-       <td width="50%" valign="top">
-         <h3>Blockchain Voting System</h3>
-         <p>Secure and transparent voting platform built on Ethereum with voter verification.</p>
-         <div>
-           <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=ethereum&logoColor=white" alt="Solidity" />
-           <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" alt="Web3.js" />
-           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-         </div>
-       </td>
-     </tr>
-   </table>
-   </div>
-   -->
 
 ## 🌐 Connect With Me
 <div align="center">
@@ -381,12 +260,12 @@ console.log(gemechis);
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://venopyx.vercel.app)
 
 </div>
-<div align="center">
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="50%">
 </div>
 
+<div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" width="100%" />
 </div>
 
