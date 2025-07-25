@@ -255,7 +255,8 @@ Based in Addis Ababa, contributing to open source, and learning something new ev
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/venopyX)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/venopyX)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:venopyx@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-blue?logo=About.me&logoColor=white)](https://venopyx.vercel.app/)
+[![Venopyx Studio](https://img.shields.io/badge/Venopyx_Studio-orange?logo=About.me&logoColor=white)](https://venopyx.studio/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-purple?logo=About.me&logoColor=white)](https://gemechis.tech/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0152841f4f2e2f2d84)
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](https://venopyx.vercel.app)
 
